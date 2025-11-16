@@ -1,7 +1,7 @@
 @layer base {
   :root {
     --background: 0 0% 99%;        /* Blanc */
-    --foreground: 220 15% 15%;     /* Bleu très sombre pour le texte */
+    --foreground: 220 15% 15%;     /* Bleu très sombre pour le texgte */
 
     --card: 0 0% 100%;
     --card-foreground: 220 15% 15%;
