@@ -1,4 +1,4 @@
-// src/app/about/page.tsx
+// src/app/about/page.tsx.
 
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Logo } from "@/components/logo";
