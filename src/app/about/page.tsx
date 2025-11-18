@@ -8,7 +8,7 @@ const features = [
     {
         icon: <BookOpen className="h-8 w-8 text-primary" />,
         title: "Ressources academiques",
-        description: "Accédez à des cours et fiches de travaux dirigés, des épreuves et aussi d'autres documents académiques conformes au programme officiel du MINESUP pour l'enseignement supérieur à IUGET."
+        description: "Accédez à des cours et fiches de travaux dirigés, des épreuves et aussi d'autres documents académiques conformes au programme officiel du MINESUP."
     },
     {
         icon: <BrainCircuit className="h-8 w-8 text-primary" />,
@@ -18,7 +18,7 @@ const features = [
     {
         icon: <Users className="h-8 w-8 text-primary" />,
         title: "Communauté d'Étudiants",
-        description: "Connectez-vous avec des camarades de votre classe, collaborez et apprenez ensemble pour une meilleure motivation."
+        description: "Une communauté étudiante où chaque connexion facilite l'apprentissage et inspire la motivation."
     }
 ];
 
