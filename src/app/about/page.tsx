@@ -7,8 +7,8 @@ import { BrainCircuit, BookOpen, Users, Award, Code } from "lucide-react";
 const features = [
     {
         icon: <BookOpen className="h-8 w-8 text-primary" />,
-        title: "Contenu Aligné sur le Curriculum",
-        description: "Accédez à des cours et fiches de révision conformes au programme officiel du MINESEC pour le secondaire général."
+        title: "Ressources academiques",
+        description: "Accédez à des cours et fiches de travaux dirigés, des épreuves et aussi d'autres documents académiques conformes au programme officiel du MINESUP pour l'enseignement supérieur à IUGET."
     },
     {
         icon: <BrainCircuit className="h-8 w-8 text-primary" />,
@@ -31,7 +31,7 @@ export default function AboutPage() {
         </div>
         <h1 className="text-4xl md:text-5xl font-headline font-bold text-gray-800 dark:text-white">À Propos d'OnBuch</h1>
         <p className="text-muted-foreground text-lg max-w-3xl mx-auto">
-          Votre allié d'étude intelligent, conçu pour transformer la manière dont les élèves du secondaire au Cameroun apprennent et réussissent.
+          Votre allié d'études intelligent vous offres une approche pédagogiques innovante et efficace
         </p>
       </header>
 
@@ -42,7 +42,7 @@ export default function AboutPage() {
             </CardHeader>
             <CardContent>
                 <p className="text-center text-muted-foreground max-w-4xl mx-auto">
-                    Chez OnBuch, notre mission est de rendre l'éducation de qualité accessible à chaque élève, où qu'il soit. Nous croyons au pouvoir de la technologie pour briser les barrières de l'apprentissage et pour fournir des outils personnalisés qui inspirent la curiosité, renforcent la confiance et garantissent la réussite scolaire.
+                    Notre mission est d’accompagner chaque étudiant avec une approche pédagogique innovante et adaptée, qui stimule la réflexion, renforce les compétences et maximise les chances de réussite académique
                 </p>
             </CardContent>
         </Card>
